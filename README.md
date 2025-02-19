@@ -1,5 +1,5 @@
 <h1 align="center"><img height="140" src="./8aa4595fb24b6ed585dddac4622b2445.gif"/> I'm Kaushambi Roy</h1>
-<h3 align="center">A passionate Frontend Developer | AI Enthusiast | Photographer</h3>
+<h3 align="center">I'm a IT undergrad Student, passionate Frontend Developer! </h3>
 
 
 <p align="center">
